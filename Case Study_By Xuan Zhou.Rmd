@@ -49,7 +49,6 @@ There are six main parts to my script as follows:
 ## 2. Data Preprocessing
 ### 2.1 Import Data and Check Missing Values
 ```{r, message = FALSE}
-knit(output = "readme.md")
 library(mice)
 library(randomForest)
 library(ggplot2)
