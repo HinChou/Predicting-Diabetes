@@ -1,5 +1,5 @@
 ---
-title: "Case Study - Stanley Black and Decker(By Xuan Zhou)"
+title: "Case Study on Pima Indians Diabetes Data Set(By Xuan Zhou)"
 author: "Xuan Zhou"
 date: "October 29, 2016"
 output: html_document
