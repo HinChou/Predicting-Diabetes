@@ -27,7 +27,7 @@ Key Assumption for Logistic Regresstion: The independent variables should be ind
 
 * Random Forest: use out-of-bag estimate(OOB)
 
-* Logistic Regresstion: use regularization and 10 folds cross-validation. 
+* Logistic Regresstion: use regularization and 10 folds cross-validation
 
 ### 1.4 Model Assessment
 
